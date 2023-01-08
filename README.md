@@ -1,5 +1,5 @@
 # PAMS
-## Patient Appointment Management Systems
+## Patient Appointment Management System
 
 ### Description:
 
